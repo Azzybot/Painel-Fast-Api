@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "name": "Painel de Agendamento Azzybot",
+            "request": "launch",
+            "url": "https://fast-api.azzybot.cloud/"
+        }
+    ]
+}
